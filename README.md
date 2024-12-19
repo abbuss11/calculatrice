@@ -1,2 +1,2 @@
 # calculatrice
-calculatrice avec des fonctionnalités simple
+calculatrice a fonctionnalités simple
